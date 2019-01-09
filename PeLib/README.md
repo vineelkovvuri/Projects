@@ -37,6 +37,3 @@ BRIEF LOOK AT PE FILE
             |     MS-DOS Header    | <-- Here at 0x3c location we have the offset of NT Header
             '----------------------'
 
-
-ASCII ART by
-Vineel :)

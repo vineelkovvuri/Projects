@@ -1,5 +1,5 @@
 
-Interface of Extenable Desktop Search
+Interface of Extendable Desktop Search 
 
-![Extendable Desktop Search](https://github.com/vineelkovvuri/Vin-Pro/raw/master/Old/Projects/ExtendableDesktopSearch/Extendable-Desktop-Search.png)
+![Extendable Desktop Search](https://github.com/vineelkovvuri/Projects/raw/master/ExtendableDesktopSearch/Extendable-Desktop-Search.png)
 
